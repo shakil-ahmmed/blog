@@ -54,7 +54,7 @@ hr{
     display: grid;
     grid-template-areas: 
     'left-content right-content';
-    width: 60%;
+    width: 90%;
     margin: auto;
     grid-gap: 50px;
     text-align: left;
