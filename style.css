@@ -57,7 +57,7 @@ hr{
     width: 90%;
     margin: auto;
     grid-gap: 50px;
-    text-align: left;
+    text-align: center;
 }
 .featured-article, .another-article{
     margin-top: 2%;
